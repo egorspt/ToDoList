@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#939597</color>
+    <color name="materialBlack">#212121</color>
+    <color name="materialGray">#757575</color>
+    <color name="dividerBorder">#E0E0E0</color>
+    <color name="dividerIn">#E8E8E8</color>
+    <color name="strokeSelected">#3700B3</color>
+    <color name="strokeNotSelected">#E8E8E8</color>
+    <color name="materialWhite">#FAFAFA</color>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="addTaskHint">Я хочу...</string>
+    <string name="addTaskHeader">Новая задача</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="today">Сегодня</string>
+    <string name="tomorrow">Завтра</string>
+    <string name="other">Другое</string>
+    <string name="empty">У Вас пока нет задач</string>
+</resources>
